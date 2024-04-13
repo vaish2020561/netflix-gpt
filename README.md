@@ -15,6 +15,10 @@
 -> implement sign In user api
 -> created redux Store with useSlice +
 -> implement sign out  API 
+-> add hardcoded vlalues to contants file
+-> register for TMDB Api and get access token 
+-> get data from TMDB now paying movie lis API
+
 
 # features
 
