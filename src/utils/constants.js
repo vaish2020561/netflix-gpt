@@ -4,7 +4,7 @@ export  const PHOTOURL = "https://occ-0-6245-2186.1.nflxso.net/dnm/api/v6/vN7bi_
 
 export const BACKGROUND = "https://assets.nflxext.com/ffe/siteui/vlv3/9d3533b2-0e2b-40b2-95e0-ecd7979cc88b/a3873901-5b7c-46eb-b9fa-12fea5197bd3/IN-en-20240311-popsignuptwoweeks-perspective_alpha_website_medium.jpg"
 
-export const APP_OPTIONS = {
+export const API_OPTIONS = {
     method: 'GET',
     headers: {
       accept: 'application/json',

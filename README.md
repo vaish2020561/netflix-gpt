@@ -18,6 +18,13 @@
 -> add hardcoded vlalues to contants file
 -> register for TMDB Api and get access token 
 -> get data from TMDB now paying movie lis API
+-> custom hooks for now plalying movies
+-> created movieSlice 
+-> Update the store with the movies data 
+-> planning for mai Container and secondary container 
+-> Update store with tailer video Data
+-> Embedded the youtube video and make it autoplay and mute 
+-> added tailwind 
 
 
 # features
