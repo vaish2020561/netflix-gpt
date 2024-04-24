@@ -25,6 +25,7 @@
 -> Update store with tailer video Data
 -> Embedded the youtube video and make it autoplay and mute 
 -> added tailwind 
+-> secondary component
 
 
 # features
